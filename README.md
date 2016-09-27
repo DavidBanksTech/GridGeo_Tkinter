@@ -1,2 +1,2 @@
-# GrindGeo_Tkinter
+# GridGeo_Tkinter
 Organizing buttons with grid geo.
